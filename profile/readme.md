@@ -7,6 +7,7 @@ Discover, explore, and share the best tools for developers — all in one place.
 📘 **Awesome Lists:**  
 - [Awesome DevTools](https://github.com/devtoolsd/awesome-devtools)  
 - [Awesome Cloud](https://github.com/devtoolsd/awesome-cloud)
+- [Best Dev Books](https://github.com/devtoolsd/DevBooks)
   
 🐦 **Follow us on X:** [@devtoolsd](https://x.com/devtoolsd)
 
